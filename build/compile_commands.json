@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/topc/Projects/EDA/Tarea 3/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/topc/Projects/EDA/Tarea 3/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++11 -o CMakeFiles/code.dir/main.cpp.o -c \"/Users/topc/Projects/EDA/Tarea 3/main.cpp\"",
+  "file": "/Users/topc/Projects/EDA/Tarea 3/main.cpp"
+},
+{
+  "directory": "/Users/topc/Projects/EDA/Tarea 3/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/topc/Projects/EDA/Tarea 3/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++11 -o CMakeFiles/code.dir/source/item.cpp.o -c \"/Users/topc/Projects/EDA/Tarea 3/source/item.cpp\"",
+  "file": "/Users/topc/Projects/EDA/Tarea 3/source/item.cpp"
+},
+{
+  "directory": "/Users/topc/Projects/EDA/Tarea 3/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/topc/Projects/EDA/Tarea 3/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -std=gnu++11 -o CMakeFiles/code.dir/source/treeSO.cpp.o -c \"/Users/topc/Projects/EDA/Tarea 3/source/treeSO.cpp\"",
+  "file": "/Users/topc/Projects/EDA/Tarea 3/source/treeSO.cpp"
+}
+]
